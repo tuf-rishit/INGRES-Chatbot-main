@@ -1,0 +1,49 @@
+Year,District,Block,TOTAL_EXTRACTABLE_GW_MCM,EXTRACTED_GW_MCM,STAGE_OF_EXTRACTION_PERCENT,CATEGORY
+2022,Bhopal,Berasia,150,80,53,Semi-Critical
+2022,Bhopal,Huzur,200,120,60,Critical
+2022,Indore,Depalpur,180,100,56,Semi-Critical
+2022,Indore,Indore City,220,200,91,Over-Exploited
+2022,Sehore,Sehore,170,85,50,Semi-Critical
+2022,Sehore,Barkheda,160,70,44,Safe
+2022,Jabalpur,Jabalpur East,190,95,50,Semi-Critical
+2022,Jabalpur,Jabalpur West,200,105,52,Semi-Critical
+2022,Satna,Satna Urban,180,120,67,Critical
+2022,Satna,Amarpatan,150,70,47,Safe
+2022,Sagar,Sagar Urban,170,110,65,Critical
+2022,Sagar,Sagar Rural,160,80,50,Semi-Critical
+2022,Rewa,Rewa City,190,140,74,Over-Exploited
+2022,Rewa,Semariya,160,75,47,Safe
+2022,Mandla,Mandla City,150,70,47,Safe
+2022,Mandla,Bijadandi,140,65,46,Safe
+2023,Bhopal,Berasia,155,85,55,Semi-Critical
+2023,Bhopal,Huzur,205,130,63,Critical
+2023,Indore,Depalpur,185,105,57,Semi-Critical
+2023,Indore,Indore City,225,210,93,Over-Exploited
+2023,Sehore,Sehore,175,90,51,Semi-Critical
+2023,Sehore,Barkheda,165,75,45,Safe
+2023,Jabalpur,Jabalpur East,195,100,51,Semi-Critical
+2023,Jabalpur,Jabalpur West,205,110,54,Semi-Critical
+2023,Satna,Satna Urban,185,125,68,Critical
+2023,Satna,Amarpatan,155,75,48,Semi-Critical
+2023,Sagar,Sagar Urban,175,115,66,Critical
+2023,Sagar,Sagar Rural,165,85,52,Semi-Critical
+2023,Rewa,Rewa City,195,145,74,Over-Exploited
+2023,Rewa,Semariya,165,80,48,Semi-Critical
+2023,Mandla,Mandla City,155,72,46,Safe
+2023,Mandla,Bijadandi,145,68,47,Safe
+2024,Bhopal,Berasia,160,90,56,Semi-Critical
+2024,Bhopal,Huzur,210,140,67,Critical
+2024,Indore,Depalpur,190,110,58,Semi-Critical
+2024,Indore,Indore City,230,215,93,Over-Exploited
+2024,Sehore,Sehore,180,95,53,Semi-Critical
+2024,Sehore,Barkheda,170,78,46,Safe
+2024,Jabalpur,Jabalpur East,200,105,53,Semi-Critical
+2024,Jabalpur,Jabalpur West,210,115,55,Semi-Critical
+2024,Satna,Satna Urban,190,130,68,Critical
+2024,Satna,Amarpatan,160,78,49,Semi-Critical
+2024,Sagar,Sagar Urban,180,120,67,Critical
+2024,Sagar,Sagar Rural,170,88,52,Semi-Critical
+2024,Rewa,Rewa City,200,150,75,Over-Exploited
+2024,Rewa,Semariya,170,82,48,Semi-Critical
+2024,Mandla,Mandla City,160,75,47,Safe
+2024,Mandla,Bijadandi,150,70,47,Safe
